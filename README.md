@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repository](https://github.com/Dla2/News-homepage-frontend-mentor-challenge.git)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://dla2.github.io/News-homepage-frontend-mentor-challenge/)
 
 ## My process
 
